@@ -81,7 +81,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@coderprasnt](https://github.com/coderprasnt) - Telegram: [witchshophub](https://t.me/witchshophub)
+My Name - [@coderprasnt](https://github.com/coderprasnt) - Telegram: [witchshophub](https://t.me/witchshophub)
 
 Project Link: [https://github.com/coderprasnt/reverse-shell-generator](https://github.com/coderprasnt/reverse-shell-generator)
 
